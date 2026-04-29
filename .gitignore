@@ -1,1 +1,8 @@
-target/
+/target
+**/*.rs.bk
+**/*.o
+**/*.a
+**/*.rlib
+**/*.rmeta
+.DS_Store
+.cargo/config
