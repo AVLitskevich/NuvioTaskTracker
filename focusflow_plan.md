@@ -23,7 +23,7 @@ FocusFlow is an AI-driven personal task manager starting as a Telegram Mini App,
 
 ## Iteration Plan
 1. **Foundations**: Auth (Telegram initData -> JWT), DB schema, CRUD, basic AI tool (add_task), CI/CD.
-2. **AI Utility**: Context management, token budgets, Inbox triage dialogs, Daily/Retrospective briefings.
+2. **AI Utility**: Context management, vector embeddings, token budgets, Inbox triage dialogs, Daily/Retrospective briefings.
 3. **Telegram Integration**: Forward-to-task, voice input, energy-aware planning, inline bot commands.
 4. **Hardening**: TLS, observability, disaster recovery, standalone preparation (FCM, email, OpenAPI).
 

@@ -1,0 +1,14 @@
+/home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/deps/serde-1036e30ebe2801ef.d: /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/build/serde-0ddce4a907a01e05/out/private.rs
+
+/home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/deps/libserde-1036e30ebe2801ef.rlib: /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/build/serde-0ddce4a907a01e05/out/private.rs
+
+/home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/deps/libserde-1036e30ebe2801ef.rmeta: /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/build/serde-0ddce4a907a01e05/out/private.rs
+
+/home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/rariaden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/build/serde-0ddce4a907a01e05/out/private.rs:
+
+# env-dep:OUT_DIR=/home/rariaden/.openclaw/workspace/NuvioTaskTracker/target/debug/build/serde-0ddce4a907a01e05/out
